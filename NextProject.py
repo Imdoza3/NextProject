@@ -25,7 +25,7 @@ print(3+2<5-7)
 print(3+2<5+7)
 # now my own equation
 print("Pizza: ",32.0+68.0-14.0+82.0%4.0)
-
+# im afraid its now time to say goodbye be safe you kind gentleman and give this writer an A :)
 
 
 
