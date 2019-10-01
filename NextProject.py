@@ -22,7 +22,7 @@ print(3+2+1-5+4%2-1/4+6)
 # and some more math
 print(3+2<5-7)
 # now my own equation
-
+print("Pizza: ",32+68-14+82%4)
 
 
 
