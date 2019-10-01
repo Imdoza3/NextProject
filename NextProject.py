@@ -18,5 +18,3 @@ print(3+2<5-7)
 
 
 
-# this is a print it shows whatb we wrote in the bottom of the code
-print("this is my new project")
