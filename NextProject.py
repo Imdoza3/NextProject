@@ -17,7 +17,7 @@ print("Hens: ", 25+30/6)
 print("Roosters: ", 100-25* 3 % 4)
 # the eggs are also important so we cant forget about them
 print("Now I will count the eggs",7)
-
+# this is our math section
 print(3+2+1-5+4%2-1/4+6)
 
 print(3+2<5-7)
