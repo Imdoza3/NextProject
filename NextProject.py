@@ -18,13 +18,13 @@ print("Roosters: ", 100-25* 3 % 4)
 # the eggs are also important so we cant forget about them
 print("Now I will count the eggs",7)
 # this is our math section
-print(3+2+1-5+4%2-1/4+6)
+print(3.0+2.0+1.0-5.0+4.0%2.0-1.0/4.0+6.0)
 # and some more math
 print(3+2<5-7)
 # this is the equation to fix the last one you just add a plus sign
 print(3+2<5+7)
 # now my own equation
-print("Pizza: ",32+68-14+82%4)
+print("Pizza: ",32.0+68.0-14.0+82.0%4.0)
 
 
 
