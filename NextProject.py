@@ -19,7 +19,7 @@ print("Roosters: ", 100-25* 3 % 4)
 print("Now I will count the eggs",7)
 # this is our math section
 print(3+2+1-5+4%2-1/4+6)
-
+# and some more math
 print(3+2<5-7)
 
 
