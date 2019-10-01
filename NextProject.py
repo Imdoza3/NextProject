@@ -12,9 +12,9 @@ print("this is fun")
 # now i will not count the things americans eat #vegan4life -_-
 print("I will not count my chickens",2)
 # however i will count the hens
-print("Hens: ", 25+30/6)
+print("Hens: ", 25.0+30.0/6.0)
 # and the roosters
-print("Roosters: ", 100-25* 3 % 4)
+print("Roosters: ", 100.0-25.0* 3.0 % 4.0)
 # the eggs are also important so we cant forget about them
 print("Now I will count the eggs",7)
 # this is our math section
