@@ -9,11 +9,17 @@ print("this is fun")
 # this is starting the math demo
 # math skills demo
 
+# now i will not count the things americans eat #vegan4life -_-
 print("I will not count my chickens",2)
+# however i will count the hens
 print("Hens: ", 25+30/6)
+# and the roosters
 print("Roosters: ", 100-25* 3 % 4)
+# the eggs are also important so we cant forget about them
 print("Now I will count the eggs",7)
+
 print(3+2+1-5+4%2-1/4+6)
+
 print(3+2<5-7)
 
 
