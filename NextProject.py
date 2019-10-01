@@ -21,7 +21,7 @@ print("Now I will count the eggs",7)
 print(3+2+1-5+4%2-1/4+6)
 # and some more math
 print(3+2<5-7)
-
+# now my own equation
 
 
 
