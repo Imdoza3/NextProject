@@ -57,4 +57,25 @@ print("Where are only" ,pizzamakers, "pizzamakers here today.")
 print("We have" , customers, "customers to make pizza for.")
 print("We need approximatley" , average_pizzamaker_per_dough, " dough for each customer.")
 
+myName = "Mr.Black"
+myAge = 936
+myHeight = 72 # inches
+myEyes = "Brown"
+myHair = "yes, some"
+
+print("Let's talk about %s." % myName)
+print("He's %d inches tall." % myHeight)
+print("he's got %s eyes and %s hair." % (myEyes, myHair))
+print("if i add %d and %d, I get %d." % (myAge, myHeight, myAge+myHeight))
+
+myName = "Isaiah"
+myAge = 15
+myHeight = 68 # inches
+myEyes = "Brown"
+myHair = "alot, of"
+
+print("Let's talk about %s." % myName)
+print("He's %d inches tall." % myHeight)
+print("He's got %s eyes and %s hair." % (myEyes, myHair))
+print("If i add %d and %d I get %d." % (myAge, myHeight, myAge+myHeight))
 
